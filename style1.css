@@ -1,0 +1,43 @@
+body {
+	 background-color: #E6E6FA;
+}
+ h1{
+ 	text-align: center;
+ 	font-size:  50px;
+ 	color: steelblue;
+ }
+ form{
+ 	margin: 2px auto;
+ 	width: 300px;
+ 	color: steelblue;
+ }
+  input{
+  	padding: 18px;
+  	font-size: inherit;
+  }
+  input[type="text"] {
+  	display: block;
+  	
+  	width: 80%;
+  	border: 2px solid steelblue; 
+  }
+  input[type="number"] {
+  	display: block;
+  	
+  	width: 80%;
+  	border: 2px solid steelblue; 
+  }
+  textarea {
+  	display: block;
+  	
+  	width: 90%;
+  	border: 2px solid steelblue; 
+  }
+  select {
+  	display: block;
+  	
+  	width: 80%;
+  	border: 2px solid steelblue; 
+  }
+ 	
+  
